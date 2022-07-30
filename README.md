@@ -1,9 +1,3 @@
 - 👋 Hi, I’m @NotJoeyBlack
-- 👀 I’m interested in gaming and blockchain tech
-- 🌱 I’m currently learning C++, solidity, and javascript
+- 👀 Working on VR Games is my favorite thing to do, with some blockchain on the side
 - 📫 How to reach me - joeyablck@gmail.com
-
-<!---
-NotJoeyBlack/NotJoeyBlack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
