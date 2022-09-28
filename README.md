@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @NotJoeyBlack
-- 👀 Working on VR Games is my favorite thing to do, with some blockchain on the side
-- 📫 How to reach me - joeyablck@gmail.com
+- Hi, I’m @NotJoeyBlack
+- I make VR games
+- CTO Stellar VR
+- How to reach me - joeyablck@gmail.com
